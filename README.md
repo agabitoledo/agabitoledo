@@ -1,7 +1,7 @@
 ## Olá, sou uma padawan no mundo de desenvolvimento web e front-end.
 
 - 🔭 Hoje trabalho com desenvolvimento web e front-end ...
-- 🌱 Estudando Javascript, React, Node
+- 🌱 Estudando Javascript, React, Node 
 
 <div align="center">
   <a href="https://github.com/agabitoledo">
