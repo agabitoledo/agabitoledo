@@ -2,7 +2,6 @@
 
 - 🔭 Atuo como pessoa desenvolvedora front-end Jr.
 - 🌱 Aprimorando conhecimentos em Javascript, ecossistema ReactJs e Figma. 
--
 
 <div align="center">
   <a href="https://github.com/agabitoledo">
